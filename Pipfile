@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 ipython = "*"
+requests = "*"
+aiohttp = "*"
 
 [requires]
 python_version = "3.8"
